@@ -40,7 +40,7 @@ You can view my ongoing notes and experiments here:
 **== Connect with Me ==**
 - [LinkedIn](https://www.linkedin.com/in/eryary/)  
 - [GitHub](https://github.com/eryanom)  
-- [Portfolio / Blog](#)
+- [Portfolio / Blog](https://github.com/eryanom/eryanom.github.io)
 
 
 
