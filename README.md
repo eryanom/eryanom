@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Welcome to My Cybersecurity Repository</h1>
 
-<!--
-**eryanom/eryanom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+~ About Me
+Hi, I'm **Erya Anom**, a **Cybersecurity Student** interested in **Ethical Hacking**, **Red Team Operations**, and **Penetration Testing**.  
+I'm currently pursuing **CISCO training** and building security projects in my personal lab environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to secure a **Summer 2026 Internship** where I can apply my technical skills, learn from professionals, and contribute to an organisation's security posture.
+
+---
+
+~ Skills and Interests
+- Linux and Bash Scripting  
+- Network Security and Penetration Testing  
+- Ethical Hacking Tools: Nmap, Burp Suite, Metasploit, Wireshark  
+- CISCO Networking (in progress)  
+
+---
+
+~ Current Projects
+- [linux-study-log](https://github.com/eryanom/linux-study-log) — Notes and commands from my Linux learning journey  
+- [pentest-lab](#) — My personal penetration testing lab setup and documentation  
+- [redteam-tools](#) — Tools and scripts for red team operations  
+
+---
+
+~ Learning Notes
+You can view my ongoing notes and experiments here:  
+- [Basic Linux Commands](https://github.com/eryanom/linux-study-log/blob/main/linux_commands.md)  
+- [Network Scanning with Nmap](#)  
+- [Web Vulnerability Testing](#)  
+
+---
+
+// Connect with Me \\
+- [LinkedIn](https://www.linkedin.com/in/eryary/)  
+- [GitHub](https://github.com/eryanom)  
+- [Portfolio / Blog](#)
+
+---
+
+<p align="center">
+  Learning, Breaking, and Securing Systems — One Command at a Time.
+</p>
