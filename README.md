@@ -1,4 +1,7 @@
-<h1 align="center">Welcome to My Cybersecurity Repository</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20My%20Cybersecurity%20Repository-red" alt="Welcome to My Cybersecurity Repository">
+</p>
+
 
 ---
 
@@ -33,7 +36,7 @@ You can view my ongoing notes and experiments here:
 
 ---
 
-// Connect with Me \\
+== Connect with Me ==
 - [LinkedIn](https://www.linkedin.com/in/eryary/)  
 - [GitHub](https://github.com/eryanom)  
 - [Portfolio / Blog](#)
