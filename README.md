@@ -24,7 +24,7 @@ My goal is to secure a **Summer 2026 Internship** where I can apply my technical
 
 ~ Current Projects
 - [linux-study-log](https://github.com/eryanom/linux-study-log) — Notes and commands from my Linux learning journey  
-- [pentest-lab](#) — My personal penetration testing lab setup and documentation  
+- [pentest-lab](https://github.com/eryanom/Penetration-Testing-Lab) — My personal penetration testing lab setup and documentation  
 - [redteam-tools](#) — Tools and scripts for red team operations  
 
 
