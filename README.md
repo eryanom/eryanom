@@ -1,4 +1,9 @@
-<img width="855" height="47" alt="image" src="https://github.com/user-attachments/assets/ddb0b2d4-96cb-4284-95d3-c6f35f211177" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=32&center=true&vCenter=true&width=800&lines=Welcome+to+My+Cybersecurity+Repository" alt="Welcome to My Cybersecurity Repository">
+  </a>
+</h1>
+
 
 
 
