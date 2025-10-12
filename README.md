@@ -1,9 +1,14 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Welcome%20to%20My%20Cybersecurity%20Repository-red" alt="Welcome to My Cybersecurity Repository">
-</p>
+<h1 align="center">
+  <marquee direction="left" scrollamount="6">
+    <span style="color:red; font-size:40px; font-weight:bold;">
+      Welcome to My Cybersecurity Repository
+    </span>
+  </marquee>
+</h1>
 
 
----
+
+
 
 ~ About Me
 Hi, I'm **Erya Anom**, a **Cybersecurity Student** interested in **Ethical Hacking**, **Red Team Operations**, and **Penetration Testing**.  
@@ -11,7 +16,7 @@ I'm currently pursuing **CISCO training** and building security projects in my p
 
 My goal is to secure a **Summer 2026 Internship** where I can apply my technical skills, learn from professionals, and contribute to an organisation's security posture.
 
----
+
 
 ~ Skills and Interests
 - Linux and Bash Scripting  
@@ -19,14 +24,14 @@ My goal is to secure a **Summer 2026 Internship** where I can apply my technical
 - Ethical Hacking Tools: Nmap, Burp Suite, Metasploit, Wireshark  
 - CISCO Networking (in progress)  
 
----
+
 
 ~ Current Projects
 - [linux-study-log](https://github.com/eryanom/linux-study-log) — Notes and commands from my Linux learning journey  
 - [pentest-lab](#) — My personal penetration testing lab setup and documentation  
 - [redteam-tools](#) — Tools and scripts for red team operations  
 
----
+
 
 ~ Learning Notes
 You can view my ongoing notes and experiments here:  
@@ -34,14 +39,14 @@ You can view my ongoing notes and experiments here:
 - [Network Scanning with Nmap](#)  
 - [Web Vulnerability Testing](#)  
 
----
+
 
 == Connect with Me ==
 - [LinkedIn](https://www.linkedin.com/in/eryary/)  
 - [GitHub](https://github.com/eryanom)  
 - [Portfolio / Blog](#)
 
----
+
 
 <p align="center">
   Learning, Breaking, and Securing Systems — One Command at a Time.
