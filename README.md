@@ -32,6 +32,7 @@ My goal is to secure a **Summer 2026 Internship** where I can apply my technical
 - [pentest-lab](https://github.com/eryanom/Penetration-Testing-Lab) — My personal penetration testing lab setup and documentation  
 - [redteam-tools](#) — Tools and scripts for red team operations
 - [Malware Analysis](#) — Notes and experiments from learning malware analysis and reverse engineering
+- [picoCTF Challange and Practices](https://github.com/eryanom/picoCTF_xraysx) - Practices and Challanges excersie with CTF
 
 
 
