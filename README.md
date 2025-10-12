@@ -51,5 +51,5 @@ You can view my ongoing notes and experiments here:
 
 
 <p align="center">
-  Learning, Breaking, and Securing Systems — One Command at a Time.
+_  Learning, Breaking, and Securing Systems — One Command at a Time._
 </p>
