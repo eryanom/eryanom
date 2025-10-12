@@ -1,10 +1,6 @@
-<h1 align="center">
-  <marquee direction="left" scrollamount="6">
-    <span style="color:red; font-size:40px; font-weight:bold;">
-      Welcome to My Cybersecurity Repository
-    </span>
-  </marquee>
-</h1>
+<img width="855" height="47" alt="image" src="https://github.com/user-attachments/assets/ddb0b2d4-96cb-4284-95d3-c6f35f211177" />
+
+
 
 
 
@@ -41,7 +37,7 @@ You can view my ongoing notes and experiments here:
 
 
 
-== Connect with Me ==
+**== Connect with Me ==**
 - [LinkedIn](https://www.linkedin.com/in/eryary/)  
 - [GitHub](https://github.com/eryanom)  
 - [Portfolio / Blog](#)
