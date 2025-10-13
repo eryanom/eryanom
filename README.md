@@ -12,6 +12,7 @@
 
 
 ~ About Me
+
 Hi, I'm **Erya Anom**, a **Cybersecurity Student** interested in **Ethical Hacking**, **Red Team Operations**, and **Penetration Testing**.  
 I'm currently pursuing **CISCO training** and building security projects in my personal lab environment.
 
