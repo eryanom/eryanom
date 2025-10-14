@@ -10,11 +10,10 @@
 
 
 
-
 ~ About Me
 
-Hi, I'm **Erya Anom**, a **Cybersecurity Student** interested in **Ethical Hacking**, **Red Team Operations**, and **Penetration Testing**.  
-I'm currently pursuing **CISCO training** and building security projects in my personal lab environment.
+Hi, I'm Erya Anom, a Cybersecurity Student interested in Ethical Hacking, Red Team Operations, and Penetration Testing.  
+I'm currently pursuing CISCO training and building security projects in my personal lab environment.
 
 My goal is to secure a **Summer 2026 Internship** where I can apply my technical skills, learn from professionals, and contribute to an organisation's security posture.
 
@@ -25,6 +24,8 @@ My goal is to secure a **Summer 2026 Internship** where I can apply my technical
 - Network Security and Penetration Testing  
 - Ethical Hacking Tools: Nmap, Burp Suite, Metasploit, Wireshark  
 - CISCO Networking (in progress)  
+
+
 
 
 
@@ -45,10 +46,14 @@ You can view my ongoing notes and experiments here:
 
 
 
-**== Connect with Me ==**
+
+
+~ Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/eryary/)  
 - [GitHub](https://github.com/eryanom)  
 - [Portfolio / Blog](https://github.com/eryanom/eryanom.github.io)
+
+
 
 
 
