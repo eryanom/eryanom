@@ -35,6 +35,7 @@ My goal is to secure a **Summer 2026 Internship** where I can apply my technical
 - [redteam-tools](#) — Tools and scripts for red team operations
 - [Malware Analysis](#) — Notes and experiments from learning malware analysis and reverse engineering
 - [picoCTF Challange and Practices](https://github.com/eryanom/picoCTF_xraysx) - Practices and Challanges excersie with CTF
+- [SQL SSMS, Database Development](https://github.com/eryanom/Database-Dev---SQL-) - Progressing built up solo project, creating Database using SQL
 
 
 
