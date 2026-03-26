@@ -36,7 +36,8 @@ My goal is to secure a **Summer 2026 Internship** where I can apply my technical
 - [Malware Analysis](#) — Notes and experiments from learning malware analysis and reverse engineering
 - [picoCTF Challange and Practices](https://github.com/eryanom/picoCTF_xraysx) - Practices and Challanges excersie with CTF
 - [SQL SSMS, Database Development](https://github.com/eryanom/Database-Dev---SQL-) - Progressing built up solo project, creating Database using SQL
-- [Python, Programming for Cybersecurity](https://github.com/eryanom/Python---Programming-for-Cybersecurity-Year-2-UWS-) - All the lab task and project 
+- [Python, Programming for Cybersecurity](https://github.com/eryanom/Python---Programming-for-Cybersecurity-Year-2-UWS-) - All the lab task and project
+- [CCNA2: Packet Tracer Labs] (https://github.com/eryanom/CCNA2)
 
 
 
@@ -44,7 +45,8 @@ My goal is to secure a **Summer 2026 Internship** where I can apply my technical
 You can view my ongoing notes and experiments here:  
 - [Basic Linux Commands](https://github.com/eryanom/linux-study-log/blob/main/linux_commands.md)  
 - [Network Scanning with Nmap](#)  
-- [Web Vulnerability Testing](#)  
+- [Web Vulnerability Testing](#)
+- [CCNA2: Switching, Routing and Wireless] (https://github.com/eryanom/CCNA2)
 
 
 
