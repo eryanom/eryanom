@@ -37,7 +37,7 @@ My goal is to secure a **Summer 2026 Internship** where I can apply my technical
 - [picoCTF Challange and Practices](https://github.com/eryanom/picoCTF_xraysx) - Practices and Challanges excersie with CTF
 - [SQL SSMS, Database Development](https://github.com/eryanom/Database-Dev---SQL-) - Progressing built up solo project, creating Database using SQL
 - [Python, Programming for Cybersecurity](https://github.com/eryanom/Python---Programming-for-Cybersecurity-Year-2-UWS-) - All the lab task and project
-- [CCNA2: Packet Tracer Labs](https://github.com/eryanom/CCNA2)
+- [CCNA2: Packet Tracer Labs](https://github.com/eryanom/CCNA2) - All the Packet Tracer lab task and Practical 
 
 
 
