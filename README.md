@@ -23,7 +23,7 @@ My goal is to secure a **Summer 2026 Internship** where I can apply my technical
 - Linux and Bash Scripting  
 - Network Security and Penetration Testing  
 - Ethical Hacking Tools: Nmap, Burp Suite, Metasploit, Wireshark  
-- CISCO CCNA2 (in progress)  
+- CISCO CCNA2 
 
 
 
