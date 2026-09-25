@@ -12,10 +12,12 @@
 
 ~ About Me
 
-Hi, I'm Erya Anom, a Cybersecurity Student interested in Ethical Hacking, Red Team Operations, and Penetration Testing.  
-I'm currently pursuing CISCO training and building security projects in my personal lab environment.
+Hi, I'm Erya Anom, a third year Cybersecurity student at the University of the West of Scotland.
+This profile is my learning portfolio. It's where I keep the projects, labs, and notes I build as I work through my degree and teach myself hands on. 
+I'm still early in my journey and learning something new every week, so expect this space to grow and change a lot.
+Right now I'm most interested in the offensive and network side of security, and I'm using my personal lab to practice the fundamentals properly rather than rushing.
 
-My goal is to secure a **Summer 2026 Internship** where I can apply my technical skills, learn from professionals, and contribute to an organisation's security posture.
+
 
 
 
@@ -29,7 +31,7 @@ My goal is to secure a **Summer 2026 Internship** where I can apply my technical
 
 
 
-~ Current Projects
+~ Projects and Labs
 - [linux-study-log](https://github.com/eryanom/linux-study-log) — Notes and commands from my Linux learning journey  
 - [pentest-lab](https://github.com/eryanom/Penetration-Testing-Lab) — My personal penetration testing lab setup and documentation  
 - [redteam-tools](#) — Tools and scripts for red team operations
