@@ -62,7 +62,7 @@ This profile is my learning portfolio. I document my labs, investigations and no
 | Project | Description |
 |---|---|
 | [Malware Analysis](https://github.com/eryanom/malware-analysis) | Notes and experiments in malware analysis and reverse engineering |
-| [Python for Cybersecurity](https://github.com/eryanom/python-for-cybersecurity) | Security scripting and automation tasks |
+| [Python for Cybersecurity](https://github.com/eryanom/Python---Programming-for-Cybersecurity-Year-2-UWS-) | Security scripting and automation tasks |
 | [CCNA2: Packet Tracer Labs](https://github.com/eryanom/ccna2-packet-tracer-labs) | Network design, switching and routing labs |
 
 ## 🔴 Offensive Security · Understanding the Attacker
