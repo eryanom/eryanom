@@ -5,13 +5,14 @@
 </h1>
 
 <p align="center">
-  <b>3rd year Cybersecurity Student · University of the West of Scotland</b><br>
+  <b>Third year Cybersecurity Student · University of the West of Scotland</b><br>
   Focused on Security Operations (SOC) and Cyber Threat Intelligence (CTI)
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eryary/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/eryanom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://tryhackme.com/p/eryanom"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
 </p>
 
 ---
@@ -96,6 +97,7 @@ This profile is my learning portfolio. I document my labs, investigations and no
 - [ ] Building a home SOC lab (SIEM + log collection from Windows and Linux endpoints)
 - [ ] Learning MITRE ATT&CK and threat intelligence fundamentals
 - [ ] Practising alert investigations on blue team platforms
+- [ ] Working through SOC and threat intelligence learning paths on [TryHackMe](https://tryhackme.com/p/eryanom)
 
 ---
 
