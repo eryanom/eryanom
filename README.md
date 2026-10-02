@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Third-year Cybersecurity Student · University of the West of Scotland</b><br>
+  <b>3rd year Cybersecurity Student · University of the West of Scotland</b><br>
   Focused on Security Operations (SOC) and Cyber Threat Intelligence (CTI)
 </p>
 
