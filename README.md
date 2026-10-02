@@ -18,7 +18,7 @@
 
 ##  About Me
 
-Hi, I'm **Erya Anom**, a third-year Cybersecurity student at the University of the West of Scotland, working towards a career as a **SOC Analyst** and **Cyber Threat Intelligence Analyst**.
+Hi, I'm **Erya Anom**, a 3rd year Cybersecurity student at the University of the West of Scotland, working towards a career as a **SOC Analyst** and **Cyber Threat Intelligence Analyst**.
 
 I started out on the offensive side of security: building a personal pentest lab, scanning networks and exploiting vulnerabilities. That experience taught me how attackers actually operate, and now I'm using it to get better at the defensive side: **detecting malicious activity, investigating alerts, and analysing threats** using frameworks like **MITRE ATT&CK**.
 
@@ -72,7 +72,7 @@ This profile is my learning portfolio. I document my labs, investigations and no
 | [redteam-tools](https://github.com/eryanom/redteam-tools) | Tools and scripts for red team practice |
 | [picoCTF Challenges](https://github.com/eryanom/picoctf) | CTF challenge practice and write-ups |
 
-## 🧩 Other Projects
+##  Other Projects
 
 | Project | Description |
 |---|---|
@@ -82,7 +82,7 @@ This profile is my learning portfolio. I document my labs, investigations and no
 
 ---
 
-## 📚 Learning Notes
+##  Learning Notes
 
 - [Basic Linux Commands](https://github.com/eryanom/linux-study-log)
 - [Network Scanning with Nmap](https://github.com/eryanom/pentest-lab)
