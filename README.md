@@ -1,64 +1,104 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=32&center=true&vCenter=true&width=800&lines=Welcome+to+My+Cybersecurity+Repository" alt="Welcome to My Cybersecurity Repository">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Welcome+to+My+Cybersecurity+Portfolio;Aspiring+SOC+%26+Threat+Intelligence+Analyst;Learning%2C+Breaking%2C+and+Securing+Systems" alt="Typing SVG">
   </a>
 </h1>
 
-
-
-
-
-
-
-~ About Me
-
-Hi, I'm Erya Anom, a third year Cybersecurity student at the University of the West of Scotland.
-This profile is my learning portfolio. It's where I keep the projects, labs, and notes I build as I work through my degree and teach myself hands on. 
-I'm still early in my journey and learning something new every week, so expect this space to grow and change a lot.
-Right now I'm most interested in the offensive and network side of security, and I'm using my personal lab to practice the fundamentals properly rather than rushing.
-
-
-
-
-
-~ Skills and Interests
-- Linux and Bash Scripting  
-- Network Security and Penetration Testing  
-- Ethical Hacking Tools: Nmap, Burp Suite, Metasploit, Wireshark  
-- CISCO CCNA2 
-
-
-
-
-
-~ Projects and Labs
-- [pentest-lab](https://github.com/eryanom/Penetration-Testing-Lab) — My personal penetration testing lab setup and documentation  
-- [Malware Analysis](#) — Notes and experiments from learning malware analysis and reverse engineering
-- [picoCTF Challange and Practices](https://github.com/eryanom/picoCTF_xraysx) - Practices and Challanges excersie with CTF
-- [SQL SSMS, Database Development](https://github.com/eryanom/Database-Dev---SQL-) - Progressing built up solo project, creating Database using SQL
-- [Python, Programming for Cybersecurity](https://github.com/eryanom/Python---Programming-for-Cybersecurity-Year-2-UWS-) - All the lab task and project
-- [CCNA2: Packet Tracer Labs](https://github.com/eryanom/CCNA2) - All the Packet Tracer lab task and Practical
-- [letsbefriends_app](https://link-up-pals.base44.app/login) - my current project, live demo by using Base44
-
-
-
-~ Learning Notes
-You can view my ongoing notes and experiments here:  
-- [Basic Linux Commands](https://github.com/eryanom/linux-study-log/blob/main/linux_commands.md)  
-- [CCNA2: Switching, Routing and Wireless](https://github.com/eryanom/CCNA2)
-
-
-
-
-
-~ Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/eryary/)  
-- [GitHub](https://github.com/eryanom)  
-
-
-
-
+<p align="center">
+  <b>Third-year Cybersecurity Student · University of the West of Scotland</b><br>
+  Focused on Security Operations (SOC) and Cyber Threat Intelligence (CTI)
+</p>
 
 <p align="center">
-Learning, Breaking, and Securing Systems — One Command at a Time.
+  <a href="https://www.linkedin.com/in/eryary/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/eryanom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
+
+##  About Me
+
+Hi, I'm **Erya Anom**, a third-year Cybersecurity student at the University of the West of Scotland, working towards a career as a **SOC Analyst** and **Cyber Threat Intelligence Analyst**.
+
+I started out on the offensive side of security: building a personal pentest lab, scanning networks and exploiting vulnerabilities. That experience taught me how attackers actually operate, and now I'm using it to get better at the defensive side: **detecting malicious activity, investigating alerts, and analysing threats** using frameworks like **MITRE ATT&CK**.
+
+This profile is my learning portfolio. I document my labs, investigations and notes as I go, so expect it to keep growing.
+
+---
+
+##  Focus Areas
+
+- **Security Monitoring & Detection**: log analysis, alert triage, SIEM
+- **Cyber Threat Intelligence**: threat actor research, IOC analysis, MITRE ATT&CK mapping
+- **Network Traffic Analysis**: packet capture and analysis with Wireshark
+- **Malware Analysis**: static and dynamic analysis fundamentals
+- **Offensive Security Background**: Nmap, Burp Suite, Metasploit, used to understand attacker techniques
+
+---
+
+##  Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server">
+</p>
+
+- **Networking:** Cisco CCNA coursework (Switching, Routing & Wireless)
+- **Scripting:** Python for security automation, Bash
+- **Databases:** SQL and database development (SSMS)
+
+---
+
+## 🔵 Blue Team · SOC & CTI Projects
+
+| Project | Description |
+|---|---|
+| [Malware Analysis](https://github.com/eryanom/malware-analysis) | Notes and experiments in malware analysis and reverse engineering |
+| [Python for Cybersecurity](https://github.com/eryanom/python-for-cybersecurity) | Security scripting and automation tasks |
+| [CCNA2: Packet Tracer Labs](https://github.com/eryanom/ccna2-packet-tracer-labs) | Network design, switching and routing labs |
+
+## 🔴 Offensive Security · Understanding the Attacker
+
+| Project | Description |
+|---|---|
+| [pentest-lab](https://github.com/eryanom/pentest-lab) | Personal penetration testing lab setup and documentation |
+| [redteam-tools](https://github.com/eryanom/redteam-tools) | Tools and scripts for red team practice |
+| [picoCTF Challenges](https://github.com/eryanom/picoctf) | CTF challenge practice and write-ups |
+
+## 🧩 Other Projects
+
+| Project | Description |
+|---|---|
+| [linux-study-log](https://github.com/eryanom/linux-study-log) | Notes and commands from my Linux learning journey |
+| [SQL Database Development](https://github.com/eryanom/sql-database-development) | Solo project building a database with SQL Server (SSMS) |
+| [letsbefriends_app](https://github.com/eryanom/letsbefriends_app) | Current project, live demo built with Base44 |
+
+---
+
+## 📚 Learning Notes
+
+- [Basic Linux Commands](https://github.com/eryanom/linux-study-log)
+- [Network Scanning with Nmap](https://github.com/eryanom/pentest-lab)
+- [Web Vulnerability Testing](https://github.com/eryanom/pentest-lab)
+- [CCNA2: Switching, Routing and Wireless](https://github.com/eryanom/ccna2-packet-tracer-labs)
+
+---
+
+##  Currently Working On
+
+- [ ] Building a home SOC lab (SIEM + log collection from Windows and Linux endpoints)
+- [ ] Learning MITRE ATT&CK and threat intelligence fundamentals
+- [ ] Practising alert investigations on blue team platforms
+
+---
+
+<p align="center">
+  <i>Learning, Breaking, and Securing Systems — One Command at a Time.</i>
 </p>
