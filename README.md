@@ -71,7 +71,7 @@ This profile is my learning portfolio. I document my labs, investigations and no
 |---|---|
 | [pentest-lab](https://github.com/eryanom/pentest-lab) | Personal penetration testing lab setup and documentation |
 | [redteam-tools](https://github.com/eryanom/redteam-tools) | Tools and scripts for red team practice |
-| [picoCTF Challenges](https://github.com/eryanom/picoctf) | CTF challenge practice and write-ups |
+| [picoCTF Challenges](https://github.com/eryanom/picoCTF_xraysx) | CTF challenge practice and write-ups |
 
 ##  Other Projects
 
