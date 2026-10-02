@@ -69,8 +69,8 @@ This profile is my learning portfolio. I document my labs, investigations and no
 
 | Project | Description |
 |---|---|
-| [pentest-lab](https://github.com/eryanom/pentest-lab) | Personal penetration testing lab setup and documentation |
-| [redteam-tools](https://github.com/eryanom/redteam-tools) | Tools and scripts for red team practice |
+| [pentest-lab](https://github.com/eryanom/Penetration-Testing-Lab) | Personal penetration testing lab setup and documentation |
+| [redteam-tools](https://github.com/eryanom/) | Tools and scripts for red team practice |
 | [picoCTF Challenges](https://github.com/eryanom/picoCTF_xraysx) | CTF challenge practice and write-ups |
 
 ##  Other Projects
@@ -78,7 +78,9 @@ This profile is my learning portfolio. I document my labs, investigations and no
 | Project | Description |
 |---|---|
 | [linux-study-log](https://github.com/eryanom/linux-study-log) | Notes and commands from my Linux learning journey |
-| [SQL Database Development](https://github.com/eryanom/sql-database-development) | Solo project building a database with SQL Server (SSMS) |
+| [Unix Study Log]  | Notes, tutorial and commands from my UNIX learning |
+| [SQL Database Development](https://github.com/eryanom/Database-Dev-SQL-) | Solo project building a database with SQL Server (SSMS) |
+| [Digital Forensics] | A research section, starting with digital forensics: methodology, evidence handling and artefact analysis |
 | [letsbefriends_app](https://github.com/eryanom/letsbefriends_app) | Current project, live demo built with Base44 |
 
 ---
@@ -88,7 +90,7 @@ This profile is my learning portfolio. I document my labs, investigations and no
 - [Basic Linux Commands](https://github.com/eryanom/linux-study-log)
 - [Network Scanning with Nmap](https://github.com/eryanom/pentest-lab)
 - [Web Vulnerability Testing](https://github.com/eryanom/pentest-lab)
-- [CCNA2: Switching, Routing and Wireless](https://github.com/eryanom/ccna2-packet-tracer-labs)
+- [CCNA2: Switching, Routing and Wireless](https://github.com/eryanom/CCNA2)
 
 ---
 
